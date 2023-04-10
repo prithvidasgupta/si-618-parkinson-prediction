@@ -10,3 +10,11 @@ We believe this work could help provide important breakthrough information about
 * Prithvijit Dasgupta (prithvid)
 * Nowrin Mohamed (nowrin)
 * Sachin Salim (sachinks)
+
+# Steps to run the code:
+
+1. eda.ipynb - Exploratory data analysis of all 4 datasets present in the project with basic manipulation and also visualization.
+
+2. main.ipynb - Preprocessing, data transformation, and all the ML models are present in this file.
+
+3. data\ - contains the original train_clinical_data.csv, supplemental_clinical_data.csv, train_proteins.csv and train_peptides.csv data. In addition to this, it contains the processed data as peptides_features.csv and proteins_features.csv
